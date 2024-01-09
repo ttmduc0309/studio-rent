@@ -12,22 +12,22 @@ export default class Services extends Component {
       {
         icon: <FaCamera />,
         title: "Partner Studios",
-        info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?",
+        info: "We have close collaborations with experienced and reputable studios nationwide.",
       },
       {
         icon: <FaMountain />,
         title: "Indoor/Outdoor Setting",
-        info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?",
+        info: "Promote, collaborate with numerous beautiful and unique tourist destinations and landscapes for everyone",
       },
       {
         icon: <FaAudioDescription />,
         title: "Free Script Counseling",
-        info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?",
+        info: "A team of friendly and enthusiastic consulting staff wholeheartedly dedicated to customer care",
       },
       {
         icon: <FaFilm />,
         title: "Filming Studio",
-        info: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?",
+        info: "The production workshops of our studios always ensure high-quality, safe, and efficient working environments.",
       },
     ],
   };

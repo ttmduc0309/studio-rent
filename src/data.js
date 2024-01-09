@@ -27,8 +27,7 @@ export default [
       name: "MR.LEE studio - Hà Nội",
       slug: "single-economy",
       address: "24 P. Lê Quý Đôn, Bạch Đằng, Hai Bà Trưng, Hà Nội",
-      review:
-        "https://www.webtretho.com/f/chuyen-hoi-cuoi/co-nen-chup-anh-cuoi-mr-lee-518198",
+      review: "https://www.tiktok.com/@mrleestudio",
       type: "Studio",
       price: 16000000,
       size: 200,
@@ -142,8 +141,7 @@ export default [
       name: "ANH HIẾU STUDIO - TP HCM",
       slug: "single-standard",
       type: "Studio",
-      review:
-        "https://www.webtretho.com/f/chuyen-hoi-cuoi/co-ai-chup-anh-o-ao-cuoi-venus-hoac-studio-anh-hieu-ho-van-hue-chua-ah-1753640",
+      review: "https://anhhieustudio.com/",
       price: 3900000,
       size: 300,
       address:

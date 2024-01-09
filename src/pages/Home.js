@@ -13,7 +13,7 @@ const home = () => {
           subtitle="Lights, camera, Click!"
         >
           <Link to="/rooms" className="btn-primary">
-            our rooms
+            Our Services
           </Link>
         </Banner>
       </Hero>

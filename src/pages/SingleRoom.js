@@ -86,8 +86,9 @@ export default class SingleRoom extends Component {
           <h6>Click Package</h6>
           {extras.map((item, index) => (
             <div className="pkg-container" key={index}>
-              {item}
+              <div>{item}</div>
               <button className="book-btn">Book</button>
+              <div className="line" />
             </div>
           ))}
         </section>
